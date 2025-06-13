@@ -1,6 +1,7 @@
 # 🖨️ Batch Printing Cost Estimator
 
-A simple, customizable web-based calculator to help estimate the cost of **batch printing** jobs. This tool is ideal for businesses and individuals looking to forecast printing expenses across various materials, ink levels, and finishing options.
+A simple, customizable web-based calculator to help estimate the cost of **[batch printing](https://filesplice.com/)
+** jobs. This tool is ideal for businesses and individuals looking to forecast printing expenses across various materials, ink levels, and finishing options.
 
 > 🔗 **Live version**: Try the tool on [FileSplice.com](https://filesplice.com/)
 
@@ -81,7 +82,7 @@ Whether you're printing **product labels**, **marketing flyers**, or **stickers 
 ## 📚 Related Projects
 
 - [FileSplice.com](https://filesplice.com/) – Visual tools for print layout and automation
-- [Rectangle Packing Estimator](https://filesplice.com/test-page/) – Arrange and pack print items efficiently on large format sheets
+- [Rectangle Packing Estimator](https://filesplice.com/rectangle-packing-calculator/) – Arrange and pack print items efficiently on large format sheets
 
 ---
 
